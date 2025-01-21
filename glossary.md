@@ -3,9 +3,10 @@ Write a paragraph explaining the term below, including 2-3 relevent links to mor
 
 
 ## Front end Developer
-A Front-End Developer is someone who creates websites and web applications.
-https://www.freecodecamp.org/news/front-end-developer-what-is-front-end-development-explained-in-plain-english/ 
-https://www.w3schools.com/whatis/whatis_frontenddev.asp 
+A Front-End Developer creates the parts of websites that users see and interact with, like text, images, and buttons. They use HTML for structure, CSS for styling, and JavaScript for behavior to ensure websites look good and work well on different devices.
+- https://www.w3schools.com/whatis/whatis_frontenddev.asp
+- https://www.freecodecamp.org/news/front-end-developer-what-is-front-end-development-explained-in-plain-english/ 
+
 
 ## HTML
 
