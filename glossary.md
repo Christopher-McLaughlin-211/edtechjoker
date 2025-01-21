@@ -1,8 +1,11 @@
  # Glossary
 Write a paragraph explaining the term below, including 2-3 relevent links to more information about the topic.
 
-## Front end Developer
 
+## Front end Developer
+A Front-End Developer is someone who creates websites and web applications.
+https://www.freecodecamp.org/news/front-end-developer-what-is-front-end-development-explained-in-plain-english/ 
+https://www.w3schools.com/whatis/whatis_frontenddev.asp 
 
 ## HTML
 
